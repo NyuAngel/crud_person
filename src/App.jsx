@@ -14,7 +14,7 @@ function App() {
       id: 2,
       name: "Julian",
       role: "Backend Developer",
-      img: "https://bootdey.com/img/Content/avatar/avatar2.png"
+      img: "https://bootdey.com/img/Content/avatar/avatar7.png"
     },
     {
       id: 3,
